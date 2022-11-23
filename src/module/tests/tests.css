@@ -1,0 +1,24 @@
+.tests {
+    margin-top: 75px;
+}
+
+.tests-router {
+    display: flex;
+    flex-direction: column;
+}
+
+.tests-btn {
+    padding: 14px 220px;
+    border: 1px solid #AAAAAA;
+    background-color: transparent;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+.line {
+    display: block;
+    margin: 35px 0;
+    width: 100%;
+    height: 1px;
+    background-color: #aaa;
+}

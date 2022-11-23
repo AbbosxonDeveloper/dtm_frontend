@@ -1,0 +1,15 @@
+.arrow {
+    display: block;
+    align-items: center;
+    margin-top: 75px;
+    margin-bottom: 80px;
+    text-decoration: none;
+    color: #330000;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 38px;
+}
+
+.arrow-img {
+    margin-right: 25px;
+}

@@ -1,0 +1,69 @@
+.register-heading {
+    text-align: center;
+}
+
+.container {
+    width: 1120px;
+    margin-top: 75px;
+    margin: 0 auto;
+}
+
+.role {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.role_num {
+    display: block;
+    width: auto;
+    height: auto;
+    padding: 8px 26px;
+    text-align: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 1px solid #18A0FB;
+    border: 1px solid #18A0FB;
+    box-shadow: 0px 0px 6px #18A0FB;
+}
+
+.role_line {
+    display: block;
+    width: 375px;
+    height: 1px;
+    background-color: #aeaeae;
+}
+
+.block_select {
+    padding: 16px 24px;
+    width: 540px;
+    height: 65px;
+    border: 1px solid #AEAEAE;
+    border-radius: 20px;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 33px;
+    color: #AEAEAE;
+}
+
+.block_heading {
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 36px;
+    margin-top: 60px;
+}
+
+.block_click {
+    display: block;
+    color: #333e00;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 100px;
+    padding: 12px 25px;
+    border-radius: 10px;
+    width: 230px;
+    border: 1px solid #aeaeae;
+    text-decoration: none;
+    margin-top: 100px;
+}
